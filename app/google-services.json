@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119488403025",
+    "project_id": "hugo-accommodation-f6e30",
+    "storage_bucket": "hugo-accommodation-f6e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119488403025:android:c4eeca893b31025fc74a70",
+        "android_client_info": {
+          "package_name": "com.example.studentaccomidation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYOhkZm4q1pOMTXrX3dlbpWZAG7VArO_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
